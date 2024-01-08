@@ -1,0 +1,30 @@
+a .glyphicons:before {
+  margin: 0;
+  color: #6BAAC4;
+  font-size: 14px;
+}
+
+a .glyphicons {
+  display: inline;
+  padding-left: 26px;
+}
+
+td .glyphicons.ok {
+  display: inline;
+}
+
+td .glyphicons.ok:before {
+  margin: 0;
+  color: #a3be5f;
+  font-size: 14px;
+}
+
+td .glyphicons.remove {
+  display: inline;
+}
+
+td .glyphicons.remove:before {
+  margin: 0;
+  color: #fb7f42;
+  font-size: 14px;
+}

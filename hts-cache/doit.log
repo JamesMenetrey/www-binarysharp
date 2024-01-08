@@ -1,0 +1,8 @@
+https://binarysharp.com/ -s0 +binarysharp.com/* +ajax.googleapis.com/* +fonts.googleapis.com/* +fonts.gstatic.com/* +apis.google.com/* +secure.gravatar.com/* +www.google-analytics.com/* +audentio.com/* +www.paypalobjects.com/* +i1.wp.com/* -*sort_key=* -*sort_by=* -*module=reports* -*module=search* -*section=forward* -*search_tags=* -*index.php?s=* -*binarysharp.com/rss/* -*?sharelink=* -*/#entry* -*view=getlastpost* -*section=markasread* -*view=findpost* -*app=forums&module=forums* -*forum/* -*topic/* -*files/* -O dump/ -F "Mozilla/5.0 (X11;U; Linux i686; en-GB; rv:1.9.1) Gecko/20090624 Ubuntu/9.04 (jaunty) Firefox/3.5" -s0 -%c600 -%! -#L99999999 -v
+File generated automatically on Mon, 08 Jan 2024 17:54:08, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
